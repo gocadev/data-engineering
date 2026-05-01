@@ -1,0 +1,9 @@
+Id,Name,Description,Unit,Price,InventoryTypeId,Brand
+1,Cement 42.5R,Grey cement,kg,12.5,1,Lafarge
+2,Sand 0-4,River sand,m3,18.0,1,-
+3,Gravel 4-8,Aggregate,m3,22.0,1,-
+4,Bitumen 70/100,Asphalt binder,kg,65.0,2,NIS
+5,Rebar fi12,Steel bar,m,120.0,3,Železara
+6,Concrete MB30,Ready-mix concrete,m3,95.0,4,BetonMix
+7,Diesel Fuel,Transport fuel,l,1.75,5,NIS
+8,Asphalt Mix AB11,Hot asphalt,m3,110.0,4,AsfaltBaza

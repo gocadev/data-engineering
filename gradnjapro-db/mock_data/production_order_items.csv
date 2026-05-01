@@ -1,0 +1,7 @@
+Id,ProductionOrderId,MaterialId,Quantity,Price,Unit
+1,1,4,300,65,kg
+2,1,2,2,m3,18
+3,2,1,400,12.5,kg
+4,2,3,3,m3,22
+5,3,4,250,65,kg
+6,3,2,1.5,m3,18

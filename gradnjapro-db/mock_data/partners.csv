@@ -1,0 +1,6 @@
+Id,Name,Type,Address,PIB,Account,MB,Note
+1,Gradnja DOO,1,"Cara Lazara 10",123456789,"160-123456789-12",98765432,"Material supplier"
+2,Transport Plus,2,"Bivolje bb",234567891,"160-987654321-45",12345678,"Carrier"
+3,BetonMix,1,"Parunovac 22",345678912,"160-555666777-33",11223344,"Concrete supplier"
+4,MetalPro,1,"Jastrebačka 8",456789123,"160-222333444-11",55667788,"Steel supplier"
+5,AsfaltTrans,2,"Jasički put 2",567891234,"160-111222333-55",99887766,"Asphalt transport"

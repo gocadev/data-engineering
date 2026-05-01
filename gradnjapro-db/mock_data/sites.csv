@@ -1,0 +1,6 @@
+Id,Name,Type,Description,Address,PriceType
+1,Construction Site Center,1,Street reconstruction,"Kralja Petra 12, Kruševac",1
+2,North Warehouse,2,Material storage,"Industrijska 5, Kruševac",1
+3,Asphalt Plant,3,Asphalt production,"Jasički put bb",2
+4,South Construction Site,1,Bridge repair,"Parunovac bb",1
+5,Concrete Plant,3,Concrete production,"Dedina bb",2

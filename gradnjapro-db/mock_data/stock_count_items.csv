@@ -1,0 +1,6 @@
+Id,StockCountId,InventoryItemId,Quantity,Unit,QuantityRecorded
+1,1,1,450,kg,455
+2,1,2,2.5,m3,2.4
+3,2,3,4,m3,4.1
+4,3,4,700,kg,698
+5,3,5,100,m,100
