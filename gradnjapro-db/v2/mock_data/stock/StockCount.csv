@@ -1,0 +1,2 @@
+StockCountId,SiteId,CountDate,CreatedAt,UpdatedAt,Status,CreatedByUserId
+1,1,2024-05-10,2024-05-10,2024-05-10,1,admin

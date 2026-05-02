@@ -1,0 +1,5 @@
+SiteInventoryId,SiteId,InventoryItemId,Quantity,Price
+1,1,1,120,85
+2,1,2,300,25
+3,2,1,40,85
+4,3,4,500,120

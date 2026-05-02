@@ -1,0 +1,2 @@
+ProductionOrderId,DocumentTypeId,OrderDate,CreatedAt,UpdatedAt,Status,MaterialSiteId,ProductSiteId,PartnerId,ProductId,Quantity,UnitOfMeasureId,Price,BillOfMaterialsId
+1,4,2024-05-03,2024-05-03,2024-05-03,1,1,2,1,1,20,3,85,1

@@ -1,0 +1,6 @@
+DocumentTypeId,Name,Code,Category
+1,Goods Receipt,PR,Input
+2,Goods Issue,OT,Output
+3,Transfer,MM,Internal
+4,Production Input,PRP,Internal
+5,Production Output,PRO,Internal

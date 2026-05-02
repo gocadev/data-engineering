@@ -1,0 +1,5 @@
+InventoryItemId,Name,Description,UnitOfMeasureId,Price,InventoryCategoryId,Brand
+1,Concrete C25/30,Ready mix concrete,3,85,1,Holcim
+2,Crushed Stone 0-32mm,Aggregate,3,25,2,Lafarge
+3,Diesel Fuel,Euro diesel,4,1.6,4,NIS
+4,Rebar Ø12,Steel bar,1,120,5,MetalInvest

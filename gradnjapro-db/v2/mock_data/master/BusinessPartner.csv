@@ -1,0 +1,5 @@
+PartnerId,Name,PartnerTypeId,Address,TaxNumber,RegistrationNumber,Note
+1,BetonMix DOO,1,Beograd,10928374,20394823,Concrete supplier
+2,TransLogistic,2,Novi Sad,10928375,20394824,Carrier
+3,MetalInvest,1,Niš,10928376,20394825,Steel supplier
+4,GradnjaPlus,3,Kragujevac,10928377,20394826,Customer
